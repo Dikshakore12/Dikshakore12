@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=38BDF8&size=22&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Student+|+Java+%26+Python+Developer+|+AI+Enthusiast;🚀+Passionate+about+Building+AI-powered+Projects;🌈+Creative+Thinker+|+Problem+Solver+|+Tech+Explorer" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dikshakore12/Dikshakore12/main/passPhoto.jpg" width="200" height="200" alt="Diksha Kore"/>
-</p>
-
-
 ### 👩‍💻 About Me  
 🎓 I'm a passionate **B.Tech Computer Science Engineering** student at *Priyadarshini J.L. College of Engineering, Nagpur* with a CGPA of **8.9**.  
 💡 Skilled in **Java**, **Python**, **Web Development**, and **AI-powered projects**.  
