@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=38BDF8&size=22&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Student+|+Java+%26+Python+Developer+|+AI+Enthusiast;🚀+Passionate+about+Building+AI-powered+Projects;🌈+Creative+Thinker+|+Problem+Solver+|+Tech+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=38BDF8&size=22&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Student;👾+Java+%26+Python+Developer;🚀+AI+Enthusiast;🌈+Creative+Thinker+|+Problem+Solver+|+Tech+Explorer" alt="Typing Animation" />
 </p>
 
 ### 👩‍💻 About Me  
