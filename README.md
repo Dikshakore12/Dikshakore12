@@ -30,7 +30,7 @@ AI chatbot for managing notes with voice, PDF, and web data fetching support.
 🔐 **[Paper-Leak Proof Protection Model](https://threedes.onrender.com)**  
 Encrypted file-sharing system using Triple DES to prevent paper leaks.
 
-🌐 **[My Personal Portfolio](https://portfolio-git-main-dikshas-projects-e2804fe5.vercel.app)**  
+🌐 **[My Personal Portfolio](https://portfolio-green-sigma-68.vercel.app/)**  
 A modern, responsive, and animated web portfolio showcasing my skills, education, and projects — built using HTML, CSS, and JavaScript and hosted on Vercel.
 
 ---
