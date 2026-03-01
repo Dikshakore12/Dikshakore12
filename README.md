@@ -33,6 +33,9 @@ Encrypted file-sharing system using Triple DES to prevent paper leaks.
 🌐 **[My Personal Portfolio](https://portfolio-git-main-dikshas-projects-e2804fe5.vercel.app)**  
 A modern, responsive, and animated web portfolio showcasing my skills, education, and projects — built using HTML, CSS, and JavaScript and hosted on Vercel.
 
+🌐 **[CareerSync AI – AI-Powered Resume & Job Match Platform](https://careersyncai-1-meoo.onrender.com)**
+A modern full-stack AI application that analyzes resumes, evaluates job compatibility, identifies skill gaps, and generates intelligent career insights — built with Next.js and FastAPI, powered by OpenAI API, and hosted on Render.
+
 ---
 
 ### 🏆 Achievements & Certifications  
