@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./passPhoto.jpg" width="160" alt="Diksha Kore"/>
-</p>
 
 <h1 align="center">
   <span style="color:#D4AF37;">Hi, I'm Diksha Kore</span>
